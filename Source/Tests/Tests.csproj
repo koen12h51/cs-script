@@ -105,6 +105,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CodeDom.cs" />
+    <Compile Include="CodeDomEvalPerformance.cs" />
     <Compile Include="Common.cs" />
     <Compile Include="CodeDomEval.cs" />
     <Compile Include="Eval.Async.Extensions.cs" />
